@@ -1,0 +1,4 @@
+FROM almalinux
+ENV  AUTHOR="SHAFI" \
+     COUSRSE="DCOKER PRACTICE" \
+     DURATION="20HRS"
