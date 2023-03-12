@@ -1,4 +1,4 @@
 FROM almalinux
-RUN adduser nginx
+RUN adduser shafi
 USER nginx
 RUN touch /tmp/hello.txt
