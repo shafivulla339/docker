@@ -1,0 +1,4 @@
+FROM almalinux
+WORKDIR /temp
+RUN touch sample.txt
+
